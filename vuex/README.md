@@ -9,7 +9,7 @@ vuex是vue官方提供的一个状态管理工具，开发者可以利用vuex，
 本次解析会给读者分析以下功能的实现：
 
 1. vuex是如何挂载到vue上的
-2 .如何通过Mutaion修改state，如何使用Action提交Mutation
+2. 如何通过Mutaion修改state，如何使用Action提交Mutation
 3. state如何实现响应式以及getter的实现
 4. vuex模块化实现
 5. 插件功能的实现
